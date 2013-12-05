@@ -1,9 +1,9 @@
 <?php
 
 /**
- * This default class provide abstraction to load subclasses.
+ * This default class provide abstraction to subclasses.
  *
- * @author Patrick Thach, ethach.com
+ * @author Patrick Thach
  * @since August 25, 2013
  *
  */
