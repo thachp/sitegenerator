@@ -1,0 +1,33 @@
+{"timestamp":"2013-09-07 12:02:03","message":"Exception : Article","data":"Article is a duplicate topic."}
+{"timestamp":"2013-09-07 12:02:10","message":"Exception : Article (grammar)","data":"Error saving data: Invalid file type"}
+{"timestamp":"2013-09-07 12:02:10","message":"Exception : Research","data":"Research is a duplicate topic."}
+{"timestamp":"2013-09-07 12:02:10","message":"Exception : Manuscript","data":"Manuscript is a duplicate topic."}
+{"timestamp":"2013-09-07 12:02:10","message":"Exception : Encyclopedia","data":"Encyclopedia is a duplicate topic."}
+{"timestamp":"2013-09-07 12:02:10","message":"Exception : Essay","data":"Essay is a duplicate topic."}
+{"timestamp":"2013-09-07 12:02:11","message":"Exception : Video","data":"Video is a duplicate topic."}
+{"timestamp":"2013-09-07 12:02:11","message":"Exception : Theora","data":"Theora is a duplicate topic."}
+{"timestamp":"2013-09-07 12:02:11","message":"Exception : Video!","data":"Video! is a duplicate topic."}
+{"timestamp":"2013-09-07 12:02:11","message":"Exception : M.video","data":"M.video is a duplicate topic."}
+{"timestamp":"2013-09-07 12:02:16","message":"Exception : DVD","data":"DVD is a duplicate topic."}
+{"timestamp":"2013-09-07 12:02:16","message":"Exception : VHS","data":"VHS is a duplicate topic."}
+{"timestamp":"2013-09-07 12:03:06","message":"www.emily.com : Exception : Test","data":"Test is a duplicate topic."}
+{"timestamp":"2013-09-07 12:03:08","message":"www.emily.com : Exception : Software testing","data":"Error saving data: Invalid file type"}
+{"timestamp":"2013-09-07 12:03:16","message":"www.emily.com : Exception : Nuclear weapons testing","data":"Error saving data: Invalid file type"}
+{"timestamp":"2013-09-07 12:03:20","message":"www.emily.com : Exception : Statistical hypothesis testing","data":"Error saving data: Invalid file type"}
+{"timestamp":"2013-09-07 12:03:22","message":"www.emily.com : Exception : DNA profiling","data":"Error saving data: Invalid file type"}
+{"timestamp":"2013-09-07 12:03:24","message":"www.emily.com : Exception : Categorization","data":"Categorization is a duplicate topic."}
+{"timestamp":"2013-09-07 12:03:28","message":"www.emily.com : Exception : CAT:U","data":"Do not parse redirect articles."}
+{"timestamp":"2013-09-07 12:03:28","message":"www.emily.com : Exception : CAT:UNCATSTUBS","data":"Do not parse redirect articles."}
+{"timestamp":"2013-09-07 12:03:28","message":"www.emily.com : Exception : CAT:UCGA","data":"Do not parse redirect articles."}
+{"timestamp":"2013-09-07 12:14:38","message":"www.emily.com : Exception : Test","data":"Test is a duplicate topic."}
+{"timestamp":"2013-09-07 12:14:41","message":"www.emily.com : Exception : Software testing","data":"Error saving data: Invalid file type"}
+{"timestamp":"2013-09-07 12:14:49","message":"www.emily.com : Exception : Nuclear weapons testing","data":"Error saving data: Invalid file type"}
+{"timestamp":"2013-09-07 12:14:52","message":"www.long.com : Exception : CAT:U","data":"Do not parse redirect articles."}
+{"timestamp":"2013-09-07 12:14:52","message":"www.long.com : Exception : CAT:UNCATSTUBS","data":"Do not parse redirect articles."}
+{"timestamp":"2013-09-07 12:14:52","message":"www.long.com : Exception : CAT:UCGA","data":"Do not parse redirect articles."}
+{"timestamp":"2013-09-07 12:14:52","message":"www.emily.com : Exception : Statistical hypothesis testing","data":"Error saving data: Invalid file type"}
+{"timestamp":"2013-09-07 12:14:54","message":"www.emily.com : Exception : DNA profiling","data":"Error saving data: Invalid file type"}
+{"timestamp":"2013-09-07 12:14:57","message":"www.emily.com : Exception : Categorization","data":"Categorization is a duplicate topic."}
+{"timestamp":"2013-09-07 12:15:01","message":"www.emily.com : Exception : CAT:U","data":"Do not parse redirect articles."}
+{"timestamp":"2013-09-07 12:15:01","message":"www.emily.com : Exception : CAT:UNCATSTUBS","data":"Do not parse redirect articles."}
+{"timestamp":"2013-09-07 12:15:01","message":"www.emily.com : Exception : CAT:UCGA","data":"Do not parse redirect articles."}
