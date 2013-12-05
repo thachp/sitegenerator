@@ -3,7 +3,7 @@
 /**
  * Default method for all.
  * Class Lib_website_default
- * @since Patrick Thach, ethach.com.
+ * @since Patrick Thach
  */
 
 class Lib_website_default extends Lib_default {
