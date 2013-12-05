@@ -1,7 +1,7 @@
 <?php
 class Lib_console extends Lib_default {
 
-  private $_my_url = "http://www.ethach.com/network/";
+  private $_my_url = "http://www.example.com/network/";
 
   /**
    * Send async Request
