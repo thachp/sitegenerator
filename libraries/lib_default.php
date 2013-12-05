@@ -3,7 +3,7 @@
 /**
  * This default class should be extended by all classes.
  *
- * @author Patrick Thach, Ine.com
+ * @author Patrick Thach
  * @since September 26, 2012
  *
  */
