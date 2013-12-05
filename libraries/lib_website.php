@@ -10,11 +10,10 @@ class Lib_website_default extends Lib_default {
 
   protected $_is_sandbox = true;
   protected $_my_site = FALSE;
-  protected $_my_wordtracker_appid = "1f546906";
-  protected $_my_wordtracker_appkey = "30d61096e444420b2a53a11e0c907aff";
-
-//  protected $_my_namecheap_credentials = array( 'api_user' => 'thachp','api_key' => '5de07d66826642079fe20e34a71b1819','api_ip' => '67.139.46.148');
-  protected $_my_namecheap_credentials = array( 'api_user' => 'thachp','api_key' => 'febe9d3f6e9f4cc2a023d1193ace4565','api_ip' => '67.139.46.148');
+  protected $_my_wordtracker_appid = "xxx";
+  protected $_my_wordtracker_appkey = "xxxx";
+  
+  protected $_my_namecheap_credentials = array( 'api_user' => 'xxx','api_key' => 'xxxx','api_ip' => 'xxxx');
   protected $_my_keywords = false;
 
   /**
