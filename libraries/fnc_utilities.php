@@ -2,7 +2,7 @@
 
 /**
  * Contain general functions.
- * @author Patrick Thach, Ine.com
+ * @author Patrick Thach
  * Date: 8/26/13
  * Time: 10:44 PM
  */
