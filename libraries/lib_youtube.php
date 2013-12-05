@@ -6,7 +6,7 @@ require_once(__dir__.'/google/contrib/Google_YouTubeService.php');
 class Lib_youtube extends Lib_default {
 
   // my developer key.
-  private $_my_developer_key = 'AIzaSyAZevKCbFiCGxFlU_yedvwuQGAwaghzAkM';
+  private $_my_developer_key = 'xxxxx';
   private $_my_client = false;
   private $_my_site = false;
   
